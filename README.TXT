@@ -1,2 +1,2 @@
 this is a test git 1
-this is test 6
+this is test 7
